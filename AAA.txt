@@ -3,3 +3,5 @@
 做一下修改
 ＡＡＡＡＡ
 練習git add . 後查看放在cache內修改的內容
+
+練習git diff --name-status
